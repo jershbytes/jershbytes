@@ -8,7 +8,7 @@
 
 🧠 learning Pythoon, Ansible and Terraform. 
 
-🚀 working on my [dotfiles](https://github.com/ColoredBytes/dotfiles).
+🚀 working on  [Stream Dock](https://github.com/coloredbytes/stream-dock).
 
 <h2 align="center">Connect with me 📬</h2>
 
