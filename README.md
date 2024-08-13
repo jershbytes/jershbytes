@@ -20,7 +20,7 @@
 
 🌎 located in Michigan, US.
 
-🧠 learning Pythoon, Ansible and Terraform. 
+🧠 learning Python, Ansible and Terraform. 
 
 🚀 working on  [MediaStacker](https://github.com/coloredbytes/media-stacker.git).
 
