@@ -1,15 +1,5 @@
 ![Header](.resources/github-header-image.png)
 
-## Hi there 👋
-
-### I am Currently...
-
-🌎 located in Michigan, US.
-
-🧠 learning Pythoon, Ansible and Terraform. 
-
-🚀 working on  [MediaStacker](https://github.com/coloredbytes/media-stacker.git).
-
 <h2 align="center">Connect with me 📬</h2>
 
 <div align="center">
@@ -23,5 +13,21 @@
         <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" alt="Hugo">
     </a>
 </div>
+
+## Hi there 👋
+
+### I am Currently...
+
+🌎 located in Michigan, US.
+
+🧠 learning Pythoon, Ansible and Terraform. 
+
+🚀 working on  [MediaStacker](https://github.com/coloredbytes/media-stacker.git).
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=coloredbytes&count_private=true&show_icons=true&theme=tokyonight&custom_title=coloredbytes%27s%20Github%20Stats&hide_border=true&hide_rank=true&card_width=330)
+
+
 
 
