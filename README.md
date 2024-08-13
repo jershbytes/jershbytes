@@ -8,7 +8,7 @@
 
 🧠 learning Pythoon, Ansible and Terraform. 
 
-🚀 working on  [Stream Dock](https://github.com/coloredbytes/stream-dock).
+🚀 working on  [MediaStacker](https://github.com/coloredbytes/media-stacker.git).
 
 <h2 align="center">Connect with me 📬</h2>
 
