@@ -1,5 +1,10 @@
 ![Header](.resources/github-header-image.png)
 
+<div align="center">
+<a href="https://github.com/coloredbytes/coloredbytes"><img src="https://komarev.com/ghpvc/?username=coloredbytes" alt="page views" /></a>
+ <a href="https://github.com/coloredbytes?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/coloredbytes?color=green&logo=github"></a
+</div>
+
 <h2 align="center">Connect with me 📬</h2>
 
 <div align="center">
