@@ -14,6 +14,10 @@
 
 🌎 located in Michigan, US.
 
+🔗 Take a look at my personal website, https://rossjm.dev.
+
+📝 Browse some of the blog posts I have written [here](https://rossjm.dev/blog/)
+
 🧠 learning Python, Ansible and Terraform. 
 
 🚀 working on  [MediaStacker](https://github.com/coloredbytes/media-stacker.git).
