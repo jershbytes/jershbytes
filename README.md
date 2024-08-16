@@ -1,10 +1,12 @@
+<!-- Header -->
+<a href="https://github.com/coloredbytes"><img alt="header" src="github-header-image.png">
 
-<a href="https://github.com/coloredbytes"><img alt="header" src=".resources/github-header-image.png">
-
+<!-- Add-ons -->
 <div align="center">
  <a href="https://github.com/coloredbytes?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/coloredbytes?color=green&logo=github"></a>
 </div>
 
+<!-- Contact info -->
 <h2 align="center">Connect with me 📬</h2>
 
 <div align="center">
