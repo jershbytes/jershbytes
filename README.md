@@ -23,7 +23,7 @@
 
 🔗 Take a look at my personal website, https://rossjm.dev.
 
-📝 Browse some of the blog posts I have written [here](https://rossjm.dev/blog/)
+📝 Browse some of the guides I have written https://learn.rossjm.dev
 
 🧠 learning Python, Ansible and Terraform. 
 
