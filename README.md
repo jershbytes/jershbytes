@@ -13,7 +13,7 @@ about_me:
   blogs_at: https://rossjm.dev
   guides_at: https://learn.rossjm.dev
 
-conttact_me_at:
+contact_me_at:
  email: contact@rossjm.dev
  linkedin: https://www.linkedin.com/in/joshuamalcom/
 
