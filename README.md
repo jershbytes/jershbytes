@@ -15,10 +15,6 @@ about_me:
   learning: Python, Ansible and Terraform.
   blogs_at: https://rossjm.dev
   guides_at: https://learn.rossjm.dev
-
-contact_me_at:
- email: contact@rossjm.dev
- linkedin: https://www.linkedin.com/in/joshuamalcom/
 ```
 
 
