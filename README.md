@@ -11,7 +11,7 @@ title: DevOps Nerd
 
 about_me:
   located: Michigan, USA
-  working_on: LearningHub
+  working_on: Random Shit
   learning: Python, Ansible and Terraform.
   blogs_at: https://rossjm.dev
   guides_at: https://learn.rossjm.dev
