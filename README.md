@@ -14,7 +14,7 @@ about_me:
   working_on: Random Shit
   learning: Python, Ansible and Terraform.
   blogs_at: https://rossjm.dev
-  guides_at: https://learn.rossjm.dev
+  guides_at: https://rossjm.dev/learninghub
 ```
 
 
