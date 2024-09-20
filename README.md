@@ -4,18 +4,12 @@
   </a>
 </div>
 
-```yaml
----
-name: Joshua Ross
-title: DevOps Nerd
-
-about_me:
-  working_on: Random Shit
-  learning: Python, Ansible and Terraform.
-  blogs_at: https://rossjm.dev
-  guides_at: https://rossjm.dev/learninghub
-```
+👋, I'm @coloredbytes, and this is my GitHub profile, where I frequently publish my open-source projects. I hope some of them can be beneficial to you or others. If you like any projects, please give some of them a ⭐, it would be much appreciated!
 
 
+- 🌎 I'm from Michigan, US.
+- 🔗 Take a look at my personal [website](https://rossjm.dev/)
+- 📝 Browse some of the guides I have written [here](https://rossjm.dev/learninghub/).
+<!-- - 🙋‍♂️ Want to chat? Check out the Bytecord discord server, we talk programming, technology, 3d printers, games, etc. -->
 
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&animation=default&layout=default&font=default&fontColor=white&bgColor=black&quoteType=random)
