@@ -4,7 +4,7 @@
   </a>
 </div>
 
-👋, I'm @coloredbytes, and this is my GitHub profile, where I frequently publish my open-source projects. I hope some of them can be beneficial to you or others. If you like any projects, please give some of them a ⭐, it would be much appreciated!
+👋, I'm @JershBytes, and this is my GitHub profile, where I frequently publish my open-source projects. I hope some of them can be beneficial to you or others. If you like any projects, please give some of them a ⭐, it would be much appreciated!
 
 
 - 🌎 I'm from Michigan, US.
