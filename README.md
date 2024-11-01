@@ -8,13 +8,7 @@
   <a href="https://steamcommunity.com/id/jershbytes/"><i class="fa-brands fa-steam" aria-hidden="true"></i> Steam</a> &nbsp;
   <a href="https://linkedin.com/in/joshuamalcom"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a> &nbsp;
   <a href="https://x.com/jershbytes"><i class="fa-brands fa-twitter" aria-hidden="true"></i> Twitter</a>
-<h3>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61F718&center=true&vCenter=true&width=435&lines=I'm+a+...;DevOps+Nerd;Homelab+Enthuasist+;Apple+Weeb" alt="Typing SVG" />
-  </a>
-</div>
+</h4>
 <!-- End Header -->
 
 <!-- Body -->
