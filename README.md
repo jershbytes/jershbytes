@@ -4,9 +4,9 @@
 <!-- Header  -->
 <h1 align="center"> I'm Jersh 👋 </h1>
 <h4 align="center"> 
-  <a href="mailto:important@rossjm.net"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a> &nbsp;|
-  <a href="https://steamcommunity.com/id/jershbytes/"><i class="fa-brands fa-steam" aria-hidden="true"></i> Steam</a> &nbsp;|
-  <a href="https://linkedin.com/in/joshuamalcom"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a> &nbsp;|
+  <a href="mailto:important@rossjm.net"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a> |&nbsp;
+  <a href="https://steamcommunity.com/id/jershbytes/"><i class="fa-brands fa-steam" aria-hidden="true"></i> Steam</a> |&nbsp;
+  <a href="https://linkedin.com/in/joshuamalcom"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a> |&nbsp;
   <a href="https://x.com/jershbytes"><i class="fa-brands fa-twitter" aria-hidden="true"></i> Twitter</a>
 </h4>
 <!-- End Header -->
