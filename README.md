@@ -14,7 +14,7 @@
 <ul>
   <li>🌎 I'm from Michigan, US.</li>
   <li>🔗 Take a look at my personal <a href="https://rossjm.dev/" target="_blank">website</a>.</li>
-  <li>📝 Browse some of the guides I have written <a href="https://rossjm.dev/learninghub/" target="_blank">here</a>.</li>
+  <li>📝 Browse some of the guides I have written <a href="https://rossjm.dev/learnzone/" target="_blank">here</a>.</li>
 </ul>
 
 <br>
