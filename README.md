@@ -1,26 +1,44 @@
-<!-- Header  -->
-<h1 align="center"> I'm Jersh 👋 </h1>
-<h4 align="center"> 
-  <a href="mailto:important@rossjm.net"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a> |&nbsp;
-  <a href="https://steamcommunity.com/id/jershbytes/"><i class="fa-brands fa-steam" aria-hidden="true"></i> Steam</a> |&nbsp;
-  <a href="https://linkedin.com/in/joshuamalcom"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a> |&nbsp;
-  <a href="https://x.com/jershbytes"><i class="fa-brands fa-twitter" aria-hidden="true"></i> Twitter</a>
-</h4>
-<!-- End Header -->
+### Hi there, I'm JershBytes 👋
 
-<!-- Body -->
-👋, I'm @JershBytes, and this is my GitHub profile, where I frequently publish my open-source projects. I mainly post here when I have an idea that I find to be useful or want to be grab something on the go hopefully some of this can be beneficial to you or others.
+<!--
+**JershBytes/JershBytes** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<ul>
-  <li>🌎 I'm from Michigan, US.</li>
-  <li>🔗 Take a look at my personal <a href="https://rossjm.dev/" target="_blank">website</a>.</li>
-  <li>📝 Browse some of the guides I have written <a href="https://wiki.rossjm.dev/" target="_blank">here</a>.</li>
-</ul>
+Welcome to my GitHub profile! I'm a passionate homelabber and engineer with a love for coding and problem-solving. Below you'll find a bit more about me, my skills, and the projects I've been working on.
 
+
+### 🔧 Technologies & Tools
+- **Languages**: Python, Bash, Powershell
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, Proxmox, Ansible
+
+---
+
+### 🛠️ Projects
+Here are a few projects I've been working on:
+
+- **[dot](https://github.com/JershBytes/dot)**: ☕️ My personal dotfiles, managed with chezmoi.
+- **[cloudystart](https://github.com/JershBytes/cloudystart)**: An Interactive Proxmox VE Provisioning Script.
+- **[Homelab](https://github.com/JershBytes/homelab)**: Homelab stacks, templates, and more fun resources!
+
+---
+
+### 📫 How to reach me
+- **Email**: [contact@rossjm.dev](mailto:contact@rossjm.dev)
+- **LinkedIn**: [linkedin.com/in/joshuamalcom](https://linkedin.com/in/joshuamalcom)
+- **Steam**: [JershBytes](https://steamcommunity.com/id/jershbytes)
+- **BlueSky**: [@rossjm.net](https://bsky.app/profile/rossjm.net)
+
+---
+
+### 💬 Ask me about
+- DevOps
+- Homelabbing
+- World of Warcraft
+
+---
+<h3 align="center"> <b>Funny dev quotes</b> </h3>
 <br>
-<br>
-
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&animation=default&layout=default&font=default&fontColor=white&bgColor=black&quoteType=random" alt="Random Quote">
 </div>
-<!-- End Body -->
