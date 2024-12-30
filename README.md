@@ -26,9 +26,7 @@ Here are a few projects I've been working on:
 ### 📫 How to reach me
 - **Email**: [contact@rossjm.dev](mailto:contact@rossjm.dev)
 - **LinkedIn**: [linkedin.com/in/joshuamalcom](https://linkedin.com/in/joshuamalcom)
-- **Steam**: [JershBytes](https://steamcommunity.com/id/jershbytes)
-- **BlueSky**: [@rossjm.net](https://bsky.app/profile/rossjm.net)
-
+- **Links**: [links.rossjm.net](https://links.rossjm.net/)
 ---
 
 ### 💬 Ask me about
