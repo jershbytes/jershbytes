@@ -1,4 +1,4 @@
-### Hi there, I'm JershBytes 👋
+### Hi there, I'm [jershbytes](https://rossjm.dev) 👋
 
 <!--
 **JershBytes/JershBytes** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +37,7 @@ Here are a few projects I've been working on:
 - World of Warcraft
 
 ---
+
 <h3 align="center"> <b>Funny dev quotes</b> </h3>
 <br>
 <div align="center">
