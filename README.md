@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate homelabber and engineer with a lo
 
 
 ### 🔧 Technologies & Tools
-- **Languages**: Python, Bash and Powershell
+- **Languages**: Bash and Powershell
 - **Databases**: MySQL, PostgreSQL and MongoDB
 - **Tools**: Git, Docker, Proxmox and Ansible
 
