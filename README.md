@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate homelabber and engineer with a lo
 Here are a few projects I've been working on:
 
 - **[dot](https://github.com/JershBytes/dot)**: ☕️ My personal dotfiles, managed with chezmoi.
-- **[homelab](https://github.com/JershBytes/homelab)**: Homelab stacks, templates, and more fun resources!
+- **[homelab](https://github.com/JershBytes/hac)**: Homelab stacks, templates, and more fun resources!
 - **[cloudystart](https://github.com/JershBytes/cloudystart)**: An Interactive Proxmox VE Provisioning Script.
 
 ---
