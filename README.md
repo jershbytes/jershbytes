@@ -1,38 +1,40 @@
-### Hi there, I'm [jershbytes](https://rossjm.dev) 👋
+<h1 align="center">
+  Hi, I'm jershbytes 👋
+</h1>
 
-<!--
-**JershBytes/JershBytes** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <em>“Automation is the art of making the hard things easy and the impossible things possible.”</em><br>
+  <small>– Unknown</small>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate homelabber and engineer with a love for coding and problem-solving. Below you'll find a bit more about me, my skills, and the projects I've been working on.
+
+🚀 **State-Level Government Automation Analyst**
+
+I'm a self-taught computer nerd, working in automation at the state government level. My passion is streamlining workflows and making complex systems run smoothly using open source tools and infrastructure-as-code.
+
+## 🛠️ Skills & Tools
+
+- **Proficient in:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+
+- **Favorite Apps:**  
+  [chezmoi](https://www.chezmoi.io/) | [Ansible](https://www.ansible.com/) | [Terraform](https://www.terraform.io/)
+
+## 💡 About Me
+
+- 🏛️ Automating at the intersection of technology and public service  
+- 🧑‍💻 Self-taught with a love for scripting and infrastructure-as-code  
+- 🛠️ Always tinkering with dotfiles, configuration management, and workflow improvements  
+
+## 📫 Connect with Me
 
 
-### 🔧 Technologies & Tools
-- **Languages**: Bash and Powershell
-- **Databases**: MySQL, PostgreSQL and MongoDB
-- **Tools**: Ansible, Docker, Git and Terraform
+[![My Blog](https://img.shields.io/badge/My%20Blog-50FA7B?logo=git&logoColor=black&labelColor=50FA7B)](https://rossjm.dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuamalcom/)
 
----
-
-### 🛠️ Projects
-Here are a few projects I've been working on:
-
-- **[dotfiles](https://github.com/JershBytes/dot)**: ☕️ My personal dotfiles, managed with chezmoi.
-- **[cloudystart](https://github.com/JershBytes/cloudystart)**: An Interactive Proxmox VE Provisioning Script.
-
----
-
-### 📫 How to reach me
-- **Email**: [contact@rossjm.dev](mailto:contact@rossjm.dev)
-- **LinkedIn**: [linkedin.com/in/joshuamalcom](https://linkedin.com/in/joshuamalcom)
----
-
-### 💬 Ask me about
-- DevOps
-- Homelabbing
-- World of Warcraft
-
----
 
 <h3 align="center"> <b>Funny dev quotes</b> </h3>
 <br>
