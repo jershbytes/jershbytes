@@ -8,9 +8,8 @@
 </p>
 
 
-🚀 **State-Level Government Automation Analyst**
 
-I'm a self-taught computer nerd, working in automation at the state government level. My passion is streamlining workflows and making complex systems run smoothly using open source tools and infrastructure-as-code.
+I'm a self-taught computer nerd, working in automation. My passion is streamlining workflows and making complex systems run smoothly using open source tools and infrastructure-as-code.
 
 ## 🛠️ Skills & Tools
 
