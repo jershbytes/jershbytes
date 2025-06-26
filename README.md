@@ -18,6 +18,8 @@ I'm a self-taught computer nerd, working in automation. My passion is streamlini
   ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
   ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)
+
 
 - **Favorite Apps:**  
   [chezmoi](https://www.chezmoi.io/) | [Ansible](https://www.ansible.com/) | [Terraform](https://www.terraform.io/)
