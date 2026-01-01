@@ -37,31 +37,6 @@ I'm a self-taught automation enthusiast passionate about **homelab infrastructur
 **Tools I Live By**  
 [chezmoi](https://www.chezmoi.io/) • [Ansible](https://www.ansible.com/) • [Terraform](https://www.terraform.io/) • [Neovim](https://neovim.io/)  •  [VScode](https://code.visualstudio.com/)
 
----
-
-## 💡 What Drives Me
-
-🏛️ **Automation in public service** - Streamlining workflows where tech meets community  
-🧑‍💻 **Self-taught philosophy** - Learning by doing, breaking, and rebuilding  
-🛠️ **Infrastructure as code** - Everything should be version-controlled and reproducible  
-🎮 **Homelabbing** - Turning my home network into a production-grade playground (with occasional WoW breaks)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://readme.rossjm.dev/api?username=jershbytes&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://readme.rossjm.dev/api/top-langs/?username=jershbytes&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-🌐 **Blog**: [rossjm.dev](https://rossjm.dev/)  
-💼 **LinkedIn**: [joshuamalcom](https://www.linkedin.com/in/joshuamalcom/)  
-🔗 **Links**: [links.rossjm.dev](https://links.rossjm.dev/)
 
 ---
 
